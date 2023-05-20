@@ -1,0 +1,14 @@
+<annotation>
+	<folder>crop512_512</folder>
+	<filename>1046_3_8.JPG</filename>
+	<path>F:\paper_writing\毕业论文\实测亮度调整\process\crop512_512\1046_3_8.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
